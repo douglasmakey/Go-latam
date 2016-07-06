@@ -1,0 +1,9 @@
+hash: b3200b1b304922ec3abe0e65d90112b0519e5081c99b85e7d9e0cbd0bac09252
+updated: 2016-06-20T19:14:09.141493767-03:00
+imports:
+- name: github.com/labstack/echo
+  version: fbcdf70c52c155ae9aa58e72ee0532fa2f1cad2e
+  subpackages:
+  - engine/fasthttp
+  - middleware
+devImports: []
